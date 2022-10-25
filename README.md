@@ -30,4 +30,3 @@ Getting Started
 
 1. Download and run the app.
 # sensei_9_android_kotlin_mars_photos_gallery
-# sensei_9_android_kotlin_mars_photos_gallery
